@@ -1,2 +1,4 @@
 Hi there,
 Welcome here, my name is Adebayo
+
+I am currently enrolled at the Dufuna Coding School studying to become a FullStack Engineer.
